@@ -1,0 +1,3 @@
+[build.environment]
+  RUBY_VERSION = "3.1.0"
+  BUNDLE_BUILD__SASS_EMBEDDED = "--disable-march-tune-native"
